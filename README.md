@@ -6,5 +6,4 @@ I'm a senior Computer Science student passionate about building innovative solut
 
 - **Florida Atlantic University | Boca Raton, FL**
   - Bachelor of Science in Computer Science (Expected Graduation: Summer or Fall '24)
-  - GPA: 3.2 (Computer Science GPA: 3.8)
   - Relevant Courses: Data Structures, Algorithms, Microprocessor Systems, Applied Cryptography, Internet Computing, Intro To AI, Mobile Apps, and more. 
